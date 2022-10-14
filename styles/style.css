@@ -84,3 +84,12 @@ p{
   color: black;
   
 }
+
+footer{
+  position: fixed;
+  width: 100%;
+  background-color: aliceblue;
+  color: blue;
+  text-align: center;
+  bottom: 0;
+}
